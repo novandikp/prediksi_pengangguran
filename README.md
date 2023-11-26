@@ -8,4 +8,5 @@ Prediksi pengaangguran dengan menggunakan data berasal dari BPS. Prediksi menggu
 
 ## Identitas
 Nama : Novandi Kevin Pratama
+
 NPM  : 20081010005
